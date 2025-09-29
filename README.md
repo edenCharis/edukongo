@@ -1,9 +1,3 @@
-Parfait, merci pour la précision 🙌
-Si tu n’utilises **pas de NPM**, ça veut dire que tu ne comptes pas gérer le front avec Vue.js/React/Tailwind directement (peut-être tu veux rester en **Blade + Bootstrap** ou un autre framework CSS déjà intégré).
-
-👉 Dans ce cas, on simplifie ton **README.md** pour l’installation :
-
----
 
 # 🎓 EduKongo – SaaS de Gestion Scolaire
 
