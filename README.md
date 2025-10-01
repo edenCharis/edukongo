@@ -51,7 +51,7 @@ php artisan serve
 
 Le projet sera disponible sur `http://127.0.0.1:8000`
 
----
+--- 
 
 ## 👥 Contribution
 
